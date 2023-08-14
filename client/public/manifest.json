@@ -1,0 +1,17 @@
+{
+	"short_name": "Memo Pixel",
+	"name": "Memo Pixel",
+	"description": "A Memo Pixel is a website to store pictures. Inspired by Your Name",
+	"icons": [
+		{
+			"src": "logo.png",
+			"sizes": "1024x1024",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#ffffff",
+	"background_color": "#000000"
+}
